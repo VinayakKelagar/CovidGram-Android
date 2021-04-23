@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008065158776",
+    "firebase_url": "https://covidgram-89a03.firebaseio.com",
+    "project_id": "covidgram-89a03",
+    "storage_bucket": "covidgram-89a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008065158776:android:826ff9cc5355011603578d",
+        "android_client_info": {
+          "package_name": "com.example.covidgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008065158776-uki7ud1sone2j0vvljahn93b1tvobark.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnhMTyx4lpQYze9XJMy45jBYofY5DidSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008065158776-uki7ud1sone2j0vvljahn93b1tvobark.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
